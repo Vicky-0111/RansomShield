@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RansomShield — Simulation Preview
 
 This is a **browser-only UI demonstration** based on the RansomShield dashboard layout. It uses generated synthetic events and a mock API adapter in `src/api.js`.
@@ -32,3 +33,7 @@ Open the local URL printed by Vite. To create a static build, run `npm run build
 This package is intended only as a limited UI preview. It is not the complete RansomShield project.
 
 Copyright Trademark : This Project is by Madhav Harish and Team
+=======
+# RansomShield
+Behavior-Based Ransomware Detection Platform
+>>>>>>> a4c67b49ac763ef4c2ea21ef29673727b3fc046b
