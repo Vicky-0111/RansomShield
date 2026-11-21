@@ -32,7 +32,7 @@ Open the local URL printed by Vite. To create a static build, run `npm run build
 
 This package is intended only as a limited UI preview. It is not the complete RansomShield project.
 
-Copyright Trademark : This Project is by Madhav Harish and Team
+Copyright Trademark : This Project is by Vicky Kumar
 =======
 # RansomShield
 Behavior-Based Ransomware Detection Platform
